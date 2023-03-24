@@ -1,0 +1,7 @@
+This is a sample text file.
+It contains several sentences that we can search.
+Let's try to find the word "search" in this file.
+If we find it, we should print the entire sentence that contains it.
+That way, we can see if the program is working correctly.
+Here's another sentence to search for the word "sentence".
+Hopefully, the program will find it too.
